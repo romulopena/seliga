@@ -1,1 +1,6 @@
-
+.corpo-texto{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+    border: groove 10px green;
+}
