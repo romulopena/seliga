@@ -1,22 +1,9 @@
-.corpo-texto{
-    text-align: center;
-    background-color: aquamarine;
+a{
+    font-size: 25px;
     color: blue;
-    border: groove 10px green;
 }
 
-.lista{
-    border: double red 10px;
-    background-color: black;
-    color: white;
-    font-size: 25px;
-}
-
-#link-seliga{
-    font-size: 25px;
-    color: black;
-}
-#link-seliga:hover{
+a:hover{
     font-size: 30px;
-    color: goldenrod;
+    color: rgb(0, 255, 21);
 }
