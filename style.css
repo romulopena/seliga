@@ -1,9 +1,4 @@
-a{
-    font-size: 25px;
-    color: blue;
-}
-
-a:hover{
-    font-size: 30px;
-    color: rgb(0, 255, 21);
+body{
+    background-color: blueviolet;
+    border: yellow double 15px;
 }
