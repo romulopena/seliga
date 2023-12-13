@@ -2,3 +2,9 @@ body{
     background-color: blueviolet;
     border: yellow double 15px;
 }
+
+#imagem-estudante{
+    border: dotted 10px blue;
+    width: 400px;
+    height: 400px;
+}
